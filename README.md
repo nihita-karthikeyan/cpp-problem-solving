@@ -6,6 +6,7 @@ C++ solutions and problem-solving practice across
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0001-two-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
@@ -23,4 +24,8 @@ C++ solutions and problem-solving practice across
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
