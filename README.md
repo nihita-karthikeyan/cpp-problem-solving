@@ -12,6 +12,7 @@ C++ solutions and problem-solving practice across
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0009-palindrome-number) |
+| [3360-stone-removal-game](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -29,4 +30,8 @@ C++ solutions and problem-solving practice across
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
