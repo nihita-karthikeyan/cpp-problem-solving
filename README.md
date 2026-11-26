@@ -11,6 +11,7 @@ C++ solutions and problem-solving practice across
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0009-palindrome-number) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
