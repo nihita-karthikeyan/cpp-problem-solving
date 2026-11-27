@@ -8,6 +8,7 @@ C++ solutions and problem-solving practice across
 | ------- |
 | [0001-two-sum](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0001-two-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,12 @@ C++ solutions and problem-solving practice across
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
