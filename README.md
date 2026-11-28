@@ -9,6 +9,7 @@ C++ solutions and problem-solving practice across
 | [0001-two-sum](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/0001-two-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,13 @@ C++ solutions and problem-solving practice across
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Sorting
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/nihita-karthikeyan/cpp-problem-solving/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
